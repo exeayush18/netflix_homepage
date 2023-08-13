@@ -30,4 +30,4 @@ I'd like to express my gratitude to [Netflix](https://www.netflix.com/) for thei
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/deep2/) if you have any questions or would like to discuss this project further.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/exeayush/) if you have any questions or would like to discuss this project further.
